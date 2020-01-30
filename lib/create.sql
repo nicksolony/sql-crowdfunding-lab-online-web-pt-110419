@@ -8,7 +8,7 @@ end_date TEXT
 );
 
 
-create table usres (
+create table users (
 id INTEGER PRIMARY KEY,
 name TEXT,
 age INTEGER
