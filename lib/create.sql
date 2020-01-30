@@ -13,3 +13,10 @@ id INTEGER PRIMARY KEY,
 name TEXT,
 age INTEGER
 );
+
+create table pledges (
+id INTEGER PRIMARY KEY,
+user_id INTEGER,
+project_id INTEGER,
+amount INTEGER
+);
