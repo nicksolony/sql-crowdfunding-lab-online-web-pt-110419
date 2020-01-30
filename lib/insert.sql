@@ -29,3 +29,27 @@ insert into users (name,age) values ("Nick",33);
 insert into users (name,age) values ("Nick",33);
 insert into users (name,age) values ("Nick",33);
 insert into users (name,age) values ("Nick",33);
+
+
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
+insert into pledges (amount,user_id,project_id) values (250,1,6);
